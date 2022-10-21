@@ -1,0 +1,9 @@
+{
+  "name": "unsdsdg",
+  "version": "1.0.0",
+  "description": "United Nation's Statistics Division Sustainable Development Goals API",
+  "dependencies": {
+    "request": "2.55.0",
+    "@webmethodsio/cli-sdk": "*"
+  }
+}
